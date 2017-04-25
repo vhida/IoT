@@ -1,0 +1,17 @@
+16
+door open
+motion yes
+temperature 34c
+door closed
+motion no
+door half_open
+motion maybe
+door half_closed
+temperature 40c
+motion somewhat
+door open
+motion closed
+temperature 45c
+temperature 1c
+motion yes
+door closed

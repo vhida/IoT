@@ -1,0 +1,3 @@
+In addition to the assumptions and design described in the report some assumptions made -
+- The gateway backend doesn't participate in any leader election, berkeley sync or logical sync algorithm as only the frontend is priviledged to communicate with the backend
+- Each process is assigned a unique process ID (PID) by the frontend gateway. By default, *gateway backend* is assigned a `PID=1` and *gateway frontend* is assigned a `PID=2` 

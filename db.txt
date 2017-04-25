@@ -1,0 +1,19 @@
+Motion:NA Door:NA Temperature:NA Bulb:NA Outlet:NA logical_clock:0 real_clock:0
+Motion:NA Door:OPEN Temperature:NA Bulb:NA Outlet:NA logical_clock:4 real_clock:33
+Motion:NA Door:KEY Temperature:NA Bulb:NA Outlet:NA logical_clock:9 real_clock:40
+Motion:YES Door:KEY Temperature:NA Bulb:NA Outlet:NA logical_clock:12 real_clock:45
+Motion:YES Door:CLOSED Temperature:NA Bulb:NA Outlet:NA logical_clock:17 real_clock:52
+Motion:NO Door:CLOSED Temperature:NA Bulb:NA Outlet:NA logical_clock:20 real_clock:58
+MSG: User Enters House, MODE: HOME, SECURTIY: DISABLED 
+Motion:NO Door:OPEN Temperature:NA Bulb:NA Outlet:NA logical_clock:25 real_clock:64
+Motion:YES Door:OPEN Temperature:NA Bulb:NA Outlet:NA logical_clock:28 real_clock:71
+Motion:YES Door:CLOSED Temperature:NA Bulb:NA Outlet:NA logical_clock:33 real_clock:77
+Motion:NO Door:CLOSED Temperature:NA Bulb:NA Outlet:NA logical_clock:36 real_clock:84
+MSG: Theif Enters House, ALARM RING !! 
+Motion:NO Door:CLOSED Temperature:45F Bulb:NA Outlet:NA logical_clock:53 real_clock:99
+Motion:NO Door:CLOSED Temperature:34F Bulb:NA Outlet:NA logical_clock:54 real_clock:102
+Motion:NO Door:CLOSED Temperature:41F Bulb:NA Outlet:NA logical_clock:55 real_clock:102
+Motion:NO Door:CLOSED Temperature:29F Bulb:NA Outlet:NA logical_clock:56 real_clock:105
+Motion:NO Door:CLOSED Temperature:61F Bulb:NA Outlet:NA logical_clock:57 real_clock:108
+Motion:NO Door:CLOSED Temperature:60F Bulb:NA Outlet:NA logical_clock:58 real_clock:111
+Motion:NO Door:CLOSED Temperature:40F Bulb:NA Outlet:NA logical_clock:59 real_clock:114
