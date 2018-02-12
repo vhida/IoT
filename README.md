@@ -1,3 +1,6 @@
+## Description
+This is a demo of Distributed System with Distributed Clock, Load Balancing and Fault Tolerance written in Python and Pyro4 package.
+
 ## How to run
 
 1. Open a terminal where we would run the name server. Since we use custom classes for message passing, the serializer needs to be mentioned to the name server. This can be done by issuing the command  
